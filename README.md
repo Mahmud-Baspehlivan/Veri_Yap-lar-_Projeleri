@@ -1,2 +1,1 @@
-# Veri_Yapilari_Projel
-eri
+# Veri_Yapilari_Projeleri
