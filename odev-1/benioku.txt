@@ -1,0 +1,3 @@
+Bu odev 1B subesinden g211210012 (osman emre turhan) ve g211210020 (mahmud emre baspehlivan) aittir.
+
+Raporda makefile ile ilgili onemli bir bilgilendirme mevcuttur.
